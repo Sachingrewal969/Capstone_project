@@ -37,17 +37,17 @@ Model Training & Hyperparameter Tuning
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/Real_Estate_Price_Prediction.git  
+   git clone https://github.com/yourusername/Real_Estate_Price_Prediction.git  
 
-cd Real_Estate_Price_Prediction  
+   cd Real_Estate_Price_Prediction  
 
 2. Install dependencies
 
-pip install -r requirements.txt  
+   pip install -r requirements.txt  
 
 3. Run the Streamlit app
 
-streamlit run app.py  
+   streamlit run app.py  
 
 Access the web interface at http://localhost:8501/
 
