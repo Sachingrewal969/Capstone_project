@@ -19,13 +19,13 @@ The dataset used for this project contains real estate property details, includi
 
 ## Data Processing & Feature Engineering
 
-✔ Data Cleaning (Handling missing values, outliers)
+Data Cleaning (Handling missing values, outliers)
 
-✔ Feature Engineering (Scaling numerical features, encoding categorical variables)
+Feature Engineering (Scaling numerical features, encoding categorical variables)
 
-✔ Exploratory Data Analysis (EDA) with visualizations
+Exploratory Data Analysis (EDA) with visualizations
 
-✔ Model Training & Hyperparameter Tuning
+Model Training & Hyperparameter Tuning
 
 ## Model Performance
 
